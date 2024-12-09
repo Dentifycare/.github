@@ -24,8 +24,8 @@ Our team is composed of dedicated individuals from diverse fields, working toget
 
 | 🎓 **Role**            | 👩‍💻 **Name**                     | 🆔 **Bangkit ID**   | 🔗 **LinkedIn**                                                   | 📍 **GitHub**                          |
 |------------------------|-----------------------------------|--------------------|------------------------------------------------------------------|----------------------------------------|
-| **Machine Learning**    | Putri Bungsu Ratna Sari           | M193B4KX3518       | [LinkedIn](https://www.linkedin.com/in/putribungsuratnasari/)     | [GitHub](https://github.com/alisia28)  |
-| **Machine Learning**    | Fitri Ning Alisia                 | M193B4KX1538       | [LinkedIn](https://www.linkedin.com/in/fitri-ning-alisia-202287309) | [GitHub](https://github.com/puput2804) |
+| **Machine Learning**    | Putri Bungsu Ratna Sari           | M193B4KX3518       | [LinkedIn](https://www.linkedin.com/in/putribungsuratnasari/)     | [GitHub](https://github.com/puput2804)  |
+| **Machine Learning**    | Fitri Ning Alisia                 | M193B4KX1538       | [LinkedIn](https://www.linkedin.com/in/fitri-ning-alisia-202287309) | [GitHub](https://github.com/alisia28) |
 | **Machine Learning**    | Muhammad Hanif Jundana            | M013B4KY2881       | [LinkedIn](https://www.linkedin.com/in/muhammad-hanif-jundana-2a49b9333/) | [GitHub](https://github.com/JunHanif)  |
 | **Cloud Computing**     | Abdullah Ridho Laksmana           | C548B4NY0034       | [LinkedIn](http://www.linkedin.com/in/abdullahridho/)            | [GitHub](https://github.com/Dw3ls)     |
 | **Cloud Computing**     | Naufal Mahardhiko Yazidu Rozak    | C548B4NY3290       | [LinkedIn](http://www.linkedin.com/in/naufal-mahardhiko-yazidu-rozak/) | [GitHub](https://github.com/NaufalMYR) |
