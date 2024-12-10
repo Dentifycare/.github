@@ -2,6 +2,8 @@
 
 Hello there! 👋 Welcome to the world of **Dentifycare**, where we are on a mission to transform dental care accessibility through innovation, technology, and compassionate service. Our project aims to empower dental co-assistants and the general public with efficient, affordable, and quality dental health solutions.
 
+<img src="https://github.com/Dentifycare/Dentifycare-Android/blob/master/Dentifycare%20-%20Mockup.png" alt="App Mockup"/>
+
 ---
 
 ## 💎 **Project Overview**
