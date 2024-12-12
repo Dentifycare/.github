@@ -59,3 +59,9 @@ We have divided our project into distinct areas of focus to ensure smooth develo
 - ☁️ **Cloud Computing**: Manages the backend and data processing needed for efficient patient-co-assistant interactions and AI diagnosis.
 
 We’re excited to share our journey with you and contribute to making dental health care accessible for all! 🚀
+
+---
+
+# **Demo App**
+
+[Watch video here](https://youtu.be/NMxorV-4k3U)
