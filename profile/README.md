@@ -1,5 +1,7 @@
 # 🎉 **Dentifycare** - Empowering Accessible Dental Health
 
+[Demo App Video Here](https://youtu.be/NMxorV-4k3U)
+
 Hello there! 👋 Welcome to the world of **Dentifycare**, where we are on a mission to transform dental care accessibility through innovation, technology, and compassionate service. Our project aims to empower dental co-assistants and the general public with efficient, affordable, and quality dental health solutions.
 
 <img src="https://github.com/Dentifycare/Dentifycare-Android/blob/master/Dentifycare%20-%20Mockup.png" alt="App Mockup"/>
@@ -61,7 +63,3 @@ We have divided our project into distinct areas of focus to ensure smooth develo
 We’re excited to share our journey with you and contribute to making dental health care accessible for all! 🚀
 
 ---
-
-# **Demo App**
-
-[Watch video here](https://youtu.be/NMxorV-4k3U)
