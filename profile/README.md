@@ -33,7 +33,7 @@ Our team is composed of dedicated individuals from diverse fields, working toget
 | **Machine Learning**    | Muhammad Hanif Jundana            | M013B4KY2881       | [LinkedIn](https://www.linkedin.com/in/muhammad-hanif-jundana-2a49b9333/) | [GitHub](https://github.com/JunHanif)  |
 | **Cloud Computing**     | Abdullah Ridho Laksmana           | C548B4NY0034       | [LinkedIn](http://www.linkedin.com/in/abdullahridho/)            | [GitHub](https://github.com/Dw3ls)     |
 | **Cloud Computing**     | Naufal Mahardhiko Yazidu Rozak    | C548B4NY3290       | [LinkedIn](http://www.linkedin.com/in/naufal-mahardhiko-yazidu-rozak/) | [GitHub](https://github.com/NaufalMYR) |
-| **Mobile Development**  | Muhammad Dedad Fajarsodiq Akastangga | A548B4NY2780       | [LinkedIn](http://www.linkedin.com/in/dedadfajar/)               | [GitHub](https://github.com/VictoriaEstara) |
+| **Lead** & **Mobile Development**  | Muhammad Dedad Fajarsodiq Akastangga | A548B4NY2780       | [LinkedIn](http://www.linkedin.com/in/dedadfajar/)               | [GitHub](https://github.com/VictoriaEstara) |
 | **Mobile Development**  | Rifky Tyo Ramadhani Santoso       | A548B4NY3845       | [LinkedIn](http://www.linkedin.com/in/rifkytyoramadhanisantoso/) | [GitHub](https://github.com/rifftyo)   |
 
 ---
